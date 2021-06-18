@@ -1,5 +1,5 @@
-# Дополнение для Opencart добавляющее Яндекс Карту на страницу Контакты
+# Add on for Opencart that adds Yandex Map to the Contacts page
 
-1. Создает в настройках магазина поле: Yandex API - для работы карт;
-2. Подтягивает адрес для карты из основных настроек;
-3. Если Yandex API заполнено, то обображает карту на странице контактов.
+Creates a field in the store settings: Yandex API-for working with maps;
+Pulls up the address for the map from the main settings;
+If the Yandex API is filled in, it displays the map on the contact page
